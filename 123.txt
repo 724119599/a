@@ -3,20 +3,6 @@
 澳亞衛視,vjms://58.215.133.185:8500:3502/live/cid=337
 澳亞衛視,vjms://23.237.33.155:8500:3502/live/cid=337
 澳亞衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-TVB翡翠台,http://hls.ws.anyrtc.io/live/f0eece805ced215dc81070696fe5b7d0.flv
-TVB J2,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
-TVB无线资讯台,http://hls.ws.anyrtc.io/live/ed709f05cac24e0cae8cf57feeb7dccd.flv
-TVB明珠台,http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv
-TVB无线新闻台,http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv
-中视,http://hls.ws.anyrtc.io/live/6fe16691fa5f0b8499896bcec5ea16dc.flv
-华视,http://hls.ws.anyrtc.io/live/9d9990af17645649a912ffc184ab2aa8.flv
-台视,http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv
-民视,http://hls.ws.anyrtc.io/live/ffa07b8234d62bcb96532bc7c4a6e094.flv
-中视经典,http://hls.ws.anyrtc.io/live/3691d684e7a6dc5747651be0b3203b41.flv
-八大第一,http://hls.ws.anyrtc.io/live/6c2ed0de57fd5f9279080cd29e26d36c.flv
-八大综合,http://hls.ws.anyrtc.io/live/67e87d37db3f706e02e5ea145f9c9456.flv
-八大戏剧,http://hls.ws.anyrtc.io/live/2ca9e62b93b7a00c09d89852ac0ef349.flv
-东森戏剧,http://hls.ws.anyrtc.io/live/d4209091aa404eae562456c6886ea50b.flv
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
