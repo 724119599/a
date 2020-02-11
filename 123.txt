@@ -1,4 +1,5 @@
 ﻿港台
+有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳亞衛視,vjms://58.215.133.185:8500:3502/live/cid=337
 澳亞衛視,vjms://23.237.33.155:8500:3502/live/cid=337
